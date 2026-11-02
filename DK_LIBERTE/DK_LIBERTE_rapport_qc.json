@@ -1,0 +1,20 @@
+{
+  "commune": "DK_LIBERTE",
+  "n_input": 18787,
+  "n_output": 18767,
+  "invalid_fixed": 175,
+  "reoriented": 214,
+  "gap_snap_grid_m": 0.05,
+  "exact_duplicates_removed": 20,
+  "residues_flagged": 5,
+  "overlaps_flagged": 2555,
+  "attribution_flagged": 2158,
+  "nicad_duplicate_groups": 75,
+  "nicad_duplicate_features": 178,
+  "geometry_collections_degenerees": 160,
+  "overlap_area_before_m2": 66948.43,
+  "overlap_area_after_m2": 34529.66,
+  "overlap_pairs_before": 2093,
+  "overlap_pairs_after": 1981,
+  "notes": []
+}

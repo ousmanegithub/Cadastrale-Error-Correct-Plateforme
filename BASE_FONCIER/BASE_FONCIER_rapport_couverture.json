@@ -1,0 +1,18 @@
+{
+  "fichier": "outils_automatisation/resultats/BASE_FONCIER/BASE_FONCIER_corrige.shp",
+  "n_parcelles_entree": 13565,
+  "n_parcelles_sortie": 13564,
+  "faces_totales": 18519,
+  "faces_attribuees": 18431,
+  "gaps_absorbes": 1325,
+  "gaps_absorbes_surface_m2": 96.678,
+  "gaps_conserves": 88,
+  "gaps_conserves_surface_m2": 447.7,
+  "chevauchements_tranches": 3252,
+  "chevauchements_surface_m2": 734.51,
+  "chevauchements_signales": 137,
+  "chevauchements_signales_surface_m2": 580.4,
+  "parcelles_perdues": 0,
+  "residus": 0,
+  "notes": []
+}

@@ -1,0 +1,20 @@
+{
+  "commune": "BASE_FONCIER",
+  "n_input": 13566,
+  "n_output": 13565,
+  "invalid_fixed": 37,
+  "reoriented": 86,
+  "gap_snap_grid_m": 0.05,
+  "exact_duplicates_removed": 1,
+  "residues_flagged": 0,
+  "overlaps_flagged": 1220,
+  "attribution_flagged": 2146,
+  "nicad_duplicate_groups": 67,
+  "nicad_duplicate_features": 138,
+  "geometry_collections_degenerees": 25,
+  "overlap_area_before_m2": 2105.81,
+  "overlap_area_after_m2": 733.79,
+  "overlap_pairs_before": 896,
+  "overlap_pairs_after": 890,
+  "notes": []
+}

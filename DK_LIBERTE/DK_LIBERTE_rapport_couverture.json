@@ -1,0 +1,19 @@
+{
+  "fichier": "outils_automatisation/resultats/DK_LIBERTE/DK_LIBERTE_corrige.shp",
+  "n_parcelles_entree": 18767,
+  "n_parcelles_sortie": 18760,
+  "faces_totales": 26058,
+  "faces_attribuees": 25863,
+  "gaps_absorbes": 1789,
+  "gaps_absorbes_surface_m2": 147.386,
+  "gaps_conserves": 195,
+  "gaps_conserves_surface_m2": 5427.5,
+  "chevauchements_tranches": 4278,
+  "chevauchements_surface_m2": 32237.56,
+  "chevauchements_signales": 816,
+  "chevauchements_signales_surface_m2": 31912.4,
+  "parcelles_perdues": 0,
+  "residus": 8,
+  "residus_fusionnes": 0,
+  "notes": []
+}
